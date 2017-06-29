@@ -1,4 +1,5 @@
-# rolling a die
+# rolling a die, adding the rolls to an array and sorting the values in the array
+# announcing the lowest and the highest rolls
 
 sorted_rolls = []
 5.times do |roll|

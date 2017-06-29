@@ -1,4 +1,4 @@
-# rolling a die
+# rolling a die, adding the rolls to an array and sorting the values in the array
 
 sorted_rolls = []
 10.times do |roll|

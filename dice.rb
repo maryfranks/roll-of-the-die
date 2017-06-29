@@ -1,3 +1,5 @@
+#rolls two dice, adds rolls together.
+
 first_die = Random.rand(6) + 1
 second_die = Random.rand(6) + 1
 puts "Your rolled a #{first_die} and a #{second_die}"
